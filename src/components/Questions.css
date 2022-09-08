@@ -3,6 +3,7 @@
     border-radius: 1rem;
     padding: 2rem;
     width: 500px;
+    
 }
 
 #question p {
@@ -16,4 +17,10 @@
 #question button {
     border: 2px solid #fff;
     margin: 1rem;
+}
+
+@media(max-width:590px){
+    #question{
+        width: 380px;
+    }
 }
