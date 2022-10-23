@@ -51,7 +51,7 @@
 <h4 align="center">Programming Quiz Test Your Knowledge  </h4>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/6XR5pk0zZLutv3VPNW/giphy.gif" alt="Quiz" width="650"/>
+   <img src="https://media.giphy.com/media/GqBj5qW1IyTc5Z1QxQ/giphy.gif" alt="Quiz" width="650"/>
 </p>
 
 
