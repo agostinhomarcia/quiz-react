@@ -3,8 +3,13 @@
 
 
 <p align="center">
-   <img src="https://media.giphy.com/media/ppndfTmDFgAdq/giphy.gif" alt="Game" width="250"/>
+   <img src="https://media.giphy.com/media/ppndfTmDFgAdq/giphy.gif" alt="Game" width="230"/>
 </p>
+
+<p align="right">
+   <img src="https://media.giphy.com/media/0gnIP5gMbDmN6xQD3k/giphy.gif" alt="Game" width="150"/>
+</p>
+
 
 
 
