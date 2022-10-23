@@ -40,7 +40,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://projeto-react-cadernos.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://quiz-react-lilac.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
@@ -82,7 +82,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/agostinhomarcia/quiz-react.git
 # Access
-$ cd movies
+$ cd quiz-react
 # Install dependencies
 $ yarn or npm 
 # Run the project
